@@ -1,2 +1,23 @@
-# Gemma-powered-Multiagent-Urban-Intelligent-platform
-An intelligent urban platform combining Gemma 4 multimodal AI, Gemini, live web search, geospatial verification, and Graphiti–Neo4j to connect incidents, predict cascading disruptions, assess risks, and recommend context-aware recovery strategies through a unified dashboard.
+# City Graph UI
+
+## Prerequisites
+
+- **Node.js v22**: Download and install from [nodejs.org](https://nodejs.org/).
+- **Add Node.js to PATH**:
+    - On Windows, ensure the Node.js installer adds `node` and `npm` to your system's environment `PATH` variable.
+
+## Installation
+
+```bash
+npm install
+```
+
+## Running the Project
+
+```bash
+> **Note:** Make sure to start the backend server before running the UI.
+
+```bash
+npm run dev
+```
+```
